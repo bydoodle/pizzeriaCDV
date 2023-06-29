@@ -11,15 +11,15 @@
 
 ##Przystawki
 
-1. BBQ Chicken Wings (6 szt. skrzydełek z kurczaka w sosie BBQ)
-2. Chicken Wings (6 szt. skrzydełek z kurczaka)
-3. Cheesy bread (8 szt. paluchów chlebowych z serem mozzarella, sos pomidorowy Marinara)
+1. BBQ Chicken Wings (6 szt. skrzydełek z kurczaka w sosie BBQ) 9,98 zł
+2. Chicken Wings (6 szt. skrzydełek z kurczaka) 9,98 zł
+3. Cheesy bread (8 szt. paluchów chlebowych z serem mozzarella, sos pomidorowy Marinara) 14,98 zł
 
 ##Sosy
 
-1. Sos pomidorowy
-2. Sos diablo
-3. Sos BBQ
+1. Sos pomidorowy 4,98 zł
+2. Sos diablo 4,98 zł
+3. Sos BBQ 4,98 zł
 
 ##Napoje
 
