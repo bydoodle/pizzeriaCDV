@@ -14,3 +14,9 @@
 1. BBQ Chicken Wings (6 szt. skrzydełek z kurczaka w sosie BBQ)
 2. Chicken Wings (6 szt. skrzydełek z kurczaka)
 3. Cheesy bread (8 szt. paluchów chlebowych z serem mozzarella, sos pomidorowy Marinara)
+
+##Sosy
+
+1. Sos pomidorowy
+2. Sos diablo
+3. Sos BBQ
