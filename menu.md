@@ -3,7 +3,7 @@
 ## Pizza
 
 1. Indian Chicken Tikka Masala (sos kremowy, mozzarella, cebula, kurczak pieczony, kukurydza, sos Tikka Masala, szczypiorek) **44,98 zł**
- ![Tikka Masala](/images/tika_masala.png)
+ ![Tikka Masala](images/tika masala.png)
 2. American Grilled Chicken (sos pomidorowy, mozzarella, cebula, pieczarki, kurczak pieczony, boczek, oregano, sos bbq) **44,98 zł**
 3. Pepperoni (sos pomidorowy, podwójna mozzarella, podwójna kiełbasa pepperoni) **34,98 zł**
 4. Hawajska (sos pomidorowy, mozzarella, szynka, ananas) **34,98 zł**
