@@ -9,4 +9,4 @@
 4. Jahseh Onfroy
 <img src="workers/Xxxtentacion_(cropped).jpg" width=50%>
 5. Darren Watkins Jr.
-<img src="workers/darren.jpg">
+<img src="workers/darren.jpg" width=50%>
