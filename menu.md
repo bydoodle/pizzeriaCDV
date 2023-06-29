@@ -23,8 +23,8 @@
 
 ##Napoje
 
-1. Pepsi 0,33 l
-2. Pepsi 0,5 l
-3. 7 Up 0,85 l
-4. Lipton Ice Tea Brzoskwiniowy 0,85 l
-5. Sok Toma Pomarańczowy 1 l
+1. Pepsi 0,33l 4,98 zł
+2. Pepsi 0,5l 7,98 zł
+3. 7 Up 0,85l 9,98 zł
+4. Lipton Ice Tea Brzoskwiniowy 0,85l 9,98 zł
+5. Sok Toma Pomarańczowy 1l 9,98 zł
