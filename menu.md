@@ -2,17 +2,17 @@
 
 ## Pizza
 
-1. Indian Chicken Tikka Masala (sos kremowy, mozzarella, cebula, kurczak pieczony, kukurydza, sos Tikka Masala, szczypiorek) **44,98 zł**
+1. Indian Chicken Tikka Masala (sos kremowy, mozzarella, cebula, kurczak pieczony, kukurydza, sos Tikka Masala, szczypiorek) **44,98 zł**\
  ![Tikka Masala](images/tikka_masala.png)
-2. American Grilled Chicken (sos pomidorowy, mozzarella, cebula, pieczarki, kurczak pieczony, boczek, oregano, sos bbq) **44,98 zł**
+2. American Grilled Chicken (sos pomidorowy, mozzarella, cebula, pieczarki, kurczak pieczony, boczek, oregano, sos bbq) **44,98 zł**\
 ![American Grilled Chicken](images/american_grilled_chicken.png)
-3. Pepperoni (sos pomidorowy, podwójna mozzarella, podwójna kiełbasa pepperoni) **34,98 zł**
+3. Pepperoni (sos pomidorowy, podwójna mozzarella, podwójna kiełbasa pepperoni) **34,98 zł**\
 ![Pepperoni](images/pepperoni.png)
-4. Hawajska (sos pomidorowy, mozzarella, szynka, ananas) **34,98 zł**
+4. Hawajska (sos pomidorowy, mozzarella, szynka, ananas) **34,98 zł**\
 ![Hawajska](images/hawajska.png)
-5. Vesuvio (sos pomidorowy, podwójna mozzarella, szynka) **34,98 zł**
+5. Vesuvio (sos pomidorowy, podwójna mozzarella, szynka) **34,98 zł**\
 ![Vesuvio](images/vesuvio.png)
-6. Capricciosa (sos pomidorowy, mozzarella, szynka, pieczarki) **34,98 zł**
+6. Capricciosa (sos pomidorowy, mozzarella, szynka, pieczarki) **34,98 zł**\
 ![Capriccosa](images/capricosa.png)
 
 ## Przystawki
