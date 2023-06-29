@@ -1,2 +1,2 @@
 # pizzeriaCDV
-Resitory for pizzeria
+Repository for pizzeria
