@@ -1,12 +1,12 @@
 # List of workers
 
-1. Viktor Yukhnevych\
-![Viktor](workers/Viktor.png)
+1. Viktor Yukhnevych
+<img src="workers/Viktor.png">
 2. Cristiano Ronaldo\
-![Cristiano](workers/cristiano.webp)
+<img src="workers/cristiano.webp">
 3. Lionel Messi\
-![Lionel](workers/messi.jpg)
+<img src="workers/messi.jpg">
 4. Jahseh Onfroy\
-![Jahseh](workers/Xxxtentacion_(cropped).jpg)
+<img src="workers/Xxxtentacion_(cropped).jpg">
 5. Darren Watkins Jr.\
-![Darren](workers/darren.jpg)
+<img src="workers/darren.jpg">
