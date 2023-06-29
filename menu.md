@@ -20,3 +20,11 @@
 1. Sos pomidorowy
 2. Sos diablo
 3. Sos BBQ
+
+##Napoje
+
+1. Pepsi 0,33 l
+2. Pepsi 0,5 l
+3. 7 Up 0,85 l
+4. Lipton Ice Tea Brzoskwiniowy 0,85 l
+5. Sok Toma Pomarańczowy 1 l
